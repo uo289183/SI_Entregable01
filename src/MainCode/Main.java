@@ -24,8 +24,7 @@ public class Main {
 		int var4 = 40;
 		result = var3+var4-var2;
 
-		
+		System.out.println("Resultado final: " + result);
 		System.out.println("Programa <Entregable01> finalizado con salida de error [" + errorValue + "].");
-
 	}
 }
