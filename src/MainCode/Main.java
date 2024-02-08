@@ -9,6 +9,10 @@ public class Main {
 		System.out.println("Empezando ejecución del programa <Entregable01> ...");
 		System.out.println("Programa <Entregable01> iniciado.");
 		
+		System.out.println("Soy un error hecho a proposito jejejeje.");
+		errorValue = 1;
+		
 		System.out.println("Programa <Entregable01> finalizado con salida de error [" + errorValue + "].");
+
 	}
 }
