@@ -12,7 +12,14 @@ public class Main {
 		System.out.println("Soy un error hecho a proposito jejejeje.");
 		errorValue = 1;
 		
+
 		System.out.println("Soy un amiguete que te ha solucionado el error.");
+		
+		int var1 = 1;
+		int var2 = 100;
+		int result = var1+var2;
+		errorValue = 0;
+
 		
 		System.out.println("Programa <Entregable01> finalizado con salida de error [" + errorValue + "].");
 
